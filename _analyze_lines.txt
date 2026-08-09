@@ -1,0 +1,76 @@
+=== Line-by-line HTML ===
+  L16: images/logo.png
+  L52: images/intro.png
+  L68: images/about.png
+  L85: images/marble/marble1.jpeg
+  L106: images/marble kalakata.jpeg
+  L127: images/امبرداور داكن.jpeg
+  L157: images/white quartz.jpeg
+  L178: images/gray quartz.jpeg
+  L199: images/black quartz.jpeg
+  L229: images/black galaxy garnite.jpeg
+  L250: images/ubatua green granite.jpeg
+  L271: images/black granit.jpeg
+  L301: images/white onyx.jpeg
+  L322: images/green onyx.jpeg
+  L343: images/gold onyx.jpeg
+  L393: images/marble2.jpeg
+  L394: images/marble/marble2.jpeg
+  L395: images/marble/marble3.jpeg
+  L396: images/marbles.png
+  L397: images/Screenshot 2025-09-26 183112.png
+  L398: images/marble/Screenshot 2025-09-26 183122.png
+  L399: images/marble/Screenshot 2025-09-26 183155.png
+  L400: images/marble/marble4.jpeg
+  L401: images/marble/marble 5.jpeg
+  L402: images/marble/marble 6.jpeg
+  L417: images/granite/granit1.jpeg
+  L418: images/granite/granit2.jpeg
+  L419: images/granite/granits.png
+  L420: images/Screenshot 2025-09-26 183223.png
+  L421: images/granite/Screenshot 2025-09-26 183229.png
+  L422: images/granite/Screenshot 2025-09-26 183236.png
+  L423: images/black galaxy garnite.jpeg
+  L424: images/black granit.jpeg
+  L425: images/ubatua green granite.jpeg
+  L426: images/Screenshot 2025-09-26 183236.png
+  L446: images/travrtine1.jpeg
+  L447: images/travertines.png
+  L448: images/travrtine1.jpeg
+  L449: images/travertines.png
+  L450: images/travrtine1.jpeg
+  L451: images/travertines.png
+  L467: images/onyx/onyx.png
+  L471: images/onyx/Screenshot 2025-09-26 183241.png
+  L475: images/onyx/Screenshot 2025-09-26 183303.png
+  L479: images/onyx/Screenshot 2025-09-26 183309.png
+  L501: images/quartz/Screenshot 2025-09-26 183200.png
+  L502: images/quartz/Screenshot 2025-09-26 183206.png
+  L503: images/quartz/Screenshot 2025-09-26 183216.png
+  L504: images/gray quartz.jpeg
+  L505: images/black quartz.jpeg
+  L506: images/white quartz.jpeg
+  L521: images/slabs/slab.png
+  L541: images/halls/halls.png
+  L556: images/stairs/stairs.png
+  L576: images/entrances/entrances.png
+  L591: images/walls/wallsection.png
+  L610: images/wash.png
+  L634: images/hallrose.png
+  L647: images/marble/marbles.png
+  L653: images/marble3.jpeg
+  L659: images/white onyx.jpeg
+  L674: images/halls/hall2.png
+  L677: images/gold.jpg
+  L680: images/slab2.jpeg
+  L683: images/slab.png
+  L686: images/entrances/entrances2.jpeg
+  L689: images/granits.png
+  L692: images/halls.png
+  L695: images/entrances/entrancies.jpeg
+  L698: images/washbasin.png
+  L701: images/stairs/stairs2.jpeg
+  L704: images/hall2.png
+  L707: images/wallsection.jpeg
+  L710: images/hall3.jpeg
+  L757: images/logo.png

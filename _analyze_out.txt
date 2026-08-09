@@ -1,0 +1,40 @@
+﻿=== HTML ===
+Total img tags: 75
+Unique src paths: 63
+
+Repetitions in HTML:
+  3x  images/travertines.png
+  3x  images/travrtine1.jpeg
+  2x  images/black galaxy garnite.jpeg
+  2x  images/black granit.jpeg
+  2x  images/black quartz.jpeg
+  2x  images/gray quartz.jpeg
+  2x  images/logo.png
+  2x  images/ubatua green granite.jpeg
+  2x  images/white onyx.jpeg
+  2x  images/white quartz.jpeg
+
+=== CSS backgrounds ===
+  10x  images/gold.jpg
+  1x  images/download.jpeg
+
+=== Line-by-line HTML ===
+  L16: images/logo.png
+  L52: images/intro.png
+  L68: images/about.png
+  L85: images/marble/marble1.jpeg
+  L106: images/marble kalakata.jpeg
+python : Traceback (most recent call last):
+At C:\Users\kheta\AppData\Local\Temp\ps-script-efed5c52-2323-45a6-94cd-cedb5d14ca5b.ps1:92 char:1
++ python "D:\downloads\Rosealraedeh-main\_analyze_images.py" 2>&1 | Out ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "D:\downloads\Rosealraedeh-main\_analyze_images.py", line 29, in <module>
+    print(f"  L{i}: {m.group(1)}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kheta\AppData\Local\Programs\Python\Python314\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 15-22: character maps to <undefined>
